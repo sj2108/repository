@@ -1,3 +1,3 @@
 # repository
-my name is pawan khandelwal and im from delhi .
+my name is Shreyansh Jain and im from Ahmedabad .
 i am using github for first time.
